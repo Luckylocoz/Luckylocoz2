@@ -4,7 +4,7 @@ Coinlluckylocoz
 <html lang="ar">
 <head>
   <meta charset="UTF-8">
-  <title>تعدين العملات الرقمية</title>
+  <title> cryptocurrency mining </title>
   <style>
     body { font-family: Tahoma, Arial; background: #222; color: #fff; text-align: center; padding: 40px;}
     .container { background: #333; border-radius: 12px; display: inline-block; padding: 30px 50px; }
